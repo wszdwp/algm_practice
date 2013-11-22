@@ -1,4 +1,4 @@
-public class StrAlg
+public class StrReverse
 {
     private static String[] tests = {"abcdefg", "a", "", "123", "abc123", "!@#", "!@ #"};
     

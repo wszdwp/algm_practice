@@ -2,14 +2,16 @@
 ##Full-time
 
 1. 	Given a number (not necessarily of type int), find if it is 2^n. What is the complexity?
+	O(logk)
 
 2. 	Given a set of points represented by x and y coordinates, 
 	find out the first k points that are closest to the origin. What is the complexity?
 
-3. 	Given an array of integers, return the largest occurrence element times its array index. Do it in place. 
+3. 	Given an array of integers, return the largest occurrence element times its array index. 	 Do it in place. 
    	What is the complexity?
 
 4. 	Given a binary tree(not necessarily BST), return the sum of all kth level nodes. What is the complexity? 
+	O(2^K)
 
 5. 	What is the difference between a linked list and an array
 	- Describe mergesort and its runtime

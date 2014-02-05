@@ -23,7 +23,7 @@
 	Write a function that, given two nodes into such a structure, returns their Lowest Common Ancestor 
 	- the lowest node in the tree which where both subtrees meet.
 
-6. 	Traverse a binary search tree, verify whether a given tree is a binary search tree or not. 
+6. 	Traverse a binary search tree, verify whether a given tree 	is a binary search tree or not. 
 	Not the most difficult question, but make sure to know the details.  
 
 7. 	Copying a tree
